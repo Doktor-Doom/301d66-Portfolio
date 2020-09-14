@@ -30,7 +30,7 @@ Number and name of feature: _Lord-Doom_Approves_this_message.___________________
 
 Estimate of time needed to complete: 24hrs_____
 
-Start time: 23:20pm_____
+Start time: 11:25am_____
 
 Finish time: _____
 
